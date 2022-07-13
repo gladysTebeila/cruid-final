@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cruid-final/static/css/main.b9320fd4.css",
+    "main.js": "/cruid-final/static/js/main.0662955d.js",
+    "static/js/787.6a3cc4cb.chunk.js": "/cruid-final/static/js/787.6a3cc4cb.chunk.js",
+    "index.html": "/cruid-final/index.html",
+    "main.b9320fd4.css.map": "/cruid-final/static/css/main.b9320fd4.css.map",
+    "main.0662955d.js.map": "/cruid-final/static/js/main.0662955d.js.map",
+    "787.6a3cc4cb.chunk.js.map": "/cruid-final/static/js/787.6a3cc4cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9320fd4.css",
+    "static/js/main.0662955d.js"
+  ]
+}
