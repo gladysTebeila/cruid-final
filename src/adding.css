@@ -1,0 +1,30 @@
+.container{
+    margin-left: 1%;
+    justify-content: space-evenly;
+  
+}
+h1{
+    background-color:whitesmoke;
+    margin-right: 60%;
+}
+
+h2{
+    margin-left: 0px;
+    margin-bottom: 50%;
+
+}
+input{
+    width: 40%;
+    height: 30px;
+    border: 0px;
+    border-radius: 10px;
+    justify-content:space-around;
+}
+.btn{
+    background-color: green;
+    margin-left: 0px;
+    margin-top: 15px;
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+}
